@@ -69,7 +69,6 @@ Cada ninho é representado como um dicionário com:
 ### 🔧 Instalação
 1. Clone o repositório
 2. Abra o arquivo `tarefa5_i2a2.ipynb` no Jupyter
-3. Execute as células em ordem
 
 ### 🎮 Como Usar
 1. **Execute as células em ordem**
