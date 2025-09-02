@@ -143,5 +143,8 @@ Este sistema representa a **união entre tecnologia e conservação**:
 
 ---
 
+## 👥 Créditos
+Desenvolvido para a atividade de Individual V – Guardião das Tartaruguinhas (I2A2 Academy).
 
-**🌿 Este sistema é mais que uma tarefa técnica - é um elo entre a tradição da conservação oral e a nova geração de inteligência ambiental comunitária.** 
+- **Autor:** [Adriana Lima] - [Curso IA Aplicada, I2A2 Academy]
+- **Data:** 2025
